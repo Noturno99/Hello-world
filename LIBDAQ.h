@@ -299,7 +299,7 @@ extern void getAccelTempGyro()
 }
 
 //Leitura Magnetômetro
-extern void
+extern void getMag()
 {
 	buf[0] = MAG_XOUT_L;
 	ret = HAL_I2C_Master_Transmit(&hi2c1,MAG_AD,buf,1,100);
