@@ -1,3 +1,6 @@
+// Equipe SEMEAR
+// Membros: Gabriel Corrêa de Oliveira, Gabriel Kenji Gushiken, Luca Borgonovi e Marcus Carr
+
 //inicialização da biblioteca 
 #ifndef LIBDAQ_H
 #define LIBDAQ_H
